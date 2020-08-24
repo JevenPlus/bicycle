@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "骑行中",
+  "usingComponents": {
+    "map": "/pages/home/map/index"
+  }
+}

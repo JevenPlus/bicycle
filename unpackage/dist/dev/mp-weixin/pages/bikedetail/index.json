@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "车辆详情",
+  "usingComponents": {
+    "home-search": "/pages/home/home-search/index",
+    "map": "/pages/home/map/index"
+  }
+}

@@ -1,0 +1,144 @@
+{
+	"pages": [ 
+		{
+			"path": "pages/riding/index",
+			"style": {
+				"navigationBarTitleText": "骑行中"
+			}
+		},
+		{
+			"path": "pages/bikedetail/index",
+			"style": {
+				"navigationBarTitleText": "车辆详情"
+			}
+		}, 
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "主页"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		},
+		{
+			"path": "pages/jurisdiction/jurisdiction",
+			"style": {
+				"navigationBarTitleText": "获取权限"
+			}
+		},
+		{
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "手机号登陆"
+			}
+		},
+		{
+			"path": "pages/verification/verification",
+			"style": {
+				"navigationBarTitleText": "短信验证"
+			}
+		},
+		{
+			"path": "pages/deposit/deposit",
+			"style": {
+				"navigationBarTitleText": "骑行押金"
+			}
+		},
+		{
+			"path": "pages/realname/realname",
+			"style": {
+				"navigationBarTitleText": "实名认证"
+			}
+		},
+		{
+			"path": "pages/service/service",
+			"style": {
+				"navigationBarTitleText": "客服服务"
+			}
+		},
+		{
+			"path": "pages/report/report",
+			"style": {
+				"navigationBarTitleText": "我要举报"
+			}
+		},
+		{
+			"path": "pages/fault/fault",
+			"style": {
+				"navigationBarTitleText": "故障上报"
+			}
+		},
+		{
+			"path": "pages/returnbike/returnbike",
+			"style": {
+				"navigationBarTitleText": "申请还车"
+			}
+		},
+		{
+			"path": "pages/main/main",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+			"path": "pages/agreement/agreement",
+			"style": {
+				"navigationBarTitleText": "政策协议"
+			}
+		},
+		{
+			"path": "pages/authorization/authorization",
+			"style": {
+				"navigationBarTitleText": "授权管理"
+			}
+		},
+		{
+			"path": "pages/account/account",
+			"style": {
+				"navigationBarTitleText": "账号安全"
+			}
+		},
+		{
+			"path": "pages/wallet/wallet",
+			"style": {
+				"navigationBarTitleText": "我的钱包"
+			}
+		},
+		{
+			"path": "pages/recharge/recharge",
+			"style": {
+				"navigationBarTitleText": "充值"
+			}
+		},
+		{
+			"path": "pages/credit/credit",
+			"style": {
+				"navigationBarTitleText": "信用积分"
+			}
+		},
+		{
+			"path": "pages/negativeRecord/negativeRecord",
+			"style": {
+				"navigationBarTextStyle":"负面记录"
+			}
+		},
+		{
+			"path": "pages/trip/trip",
+			"navigationBarTextStyle": "我的行程"
+		},
+		{
+			"path": "pages/detailRecord/detailRecord",
+			"navigationBarTextStyle": "明细记录"
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

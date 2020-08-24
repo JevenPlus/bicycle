@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/riding/index",
+    "pages/bikedetail/index",
+    "pages/home/index",
+    "pages/index/index",
+    "pages/jurisdiction/jurisdiction",
+    "pages/login/login",
+    "pages/verification/verification",
+    "pages/deposit/deposit",
+    "pages/realname/realname",
+    "pages/service/service",
+    "pages/report/report",
+    "pages/fault/fault",
+    "pages/returnbike/returnbike",
+    "pages/main/main",
+    "pages/agreement/agreement",
+    "pages/authorization/authorization",
+    "pages/account/account",
+    "pages/wallet/wallet",
+    "pages/recharge/recharge",
+    "pages/credit/credit",
+    "pages/negativeRecord/negativeRecord",
+    "pages/trip/trip",
+    "pages/detailRecord/detailRecord"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

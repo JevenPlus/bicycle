@@ -1,0 +1,33 @@
+
+.sreach-wrap.data-v-5ec739e2{
+	position: relative;
+	width: 675rpx;
+	height: 97rpx;
+	margin: 0 40rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+}
+.search-icon.data-v-5ec739e2{
+	position: fixed;
+	left: 290rpx;
+	top: 34rpx; 
+	color: #969799;
+}
+.search-input input.data-v-5ec739e2{
+	padding-left: 17rpx;
+	color: #C8C9CC;
+	text-align: center;
+	font-size: 25rpx;
+	width: 618rpx;
+	height: 61rpx;
+	background-color: #F7F8FA;
+	border-radius: 180rpx;
+}
+
